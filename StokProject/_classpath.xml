@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Buse/Desktop/mysql-connector-java-5.1.30/mysql-connector-java-5.1.30-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Buse/Desktop/jarlar/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Buse/Desktop/jarlar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Buse/Desktop/jarlar/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Buse/Desktop/jarlar/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Buse/Desktop/jarlar/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Buse/Desktop/jarlar/groovy-all-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Buse/Desktop/jarlar/iText-2.1.7.js2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Buse/Desktop/jarlar/jasperreports-5.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Buse/Desktop/jarlar/ojdbc14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
